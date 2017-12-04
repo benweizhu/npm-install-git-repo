@@ -1,0 +1,19 @@
+{
+  "name": "npm-install-git-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benweizhu/npm-install-git-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benweizhu/npm-install-git-repo/issues"
+  },
+  "homepage": "https://github.com/benweizhu/npm-install-git-repo#readme"
+}
